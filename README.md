@@ -210,7 +210,7 @@ Potential enhancements include:
 B.Tech CSE (AI & DS) Student
 Chandigarh Group of Colleges, Jhanjeri
 
-GitHub: https://github.com/gouravgarg14
+GitHub: https://github.com/gourav112gg
 
 ---
 
